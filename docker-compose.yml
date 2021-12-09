@@ -1,0 +1,14 @@
+version: '2.4'
+services:
+  appflask:
+    build:
+      context: .
+    image: app-flask
+    volumes:
+      - .:/web
+    command:
+      /bin/bash -c "pip intsall -U pip; pip install -r app/requirements.txt; python app/ranked_pairs.py"
+    ports:
+      - '8000:8000'
+    tty: true
+    stdin_open: true

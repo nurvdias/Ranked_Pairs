@@ -1,0 +1,12 @@
+3
+Alice Charlie Bob
+9
+Alice Charlie Bob
+Alice Charlie Bob
+Bob Alice Charlie
+Bob Alice Charlie
+Bob Alice Charlie
+Charlie Alice Bob
+Charlie Alice Bob
+Charlie Alice Bob
+Charlie Bob Alice
