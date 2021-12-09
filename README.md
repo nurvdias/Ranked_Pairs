@@ -1,2 +1,6 @@
 # Rank_Pairs
-Function using Tideman algorithm to find the winner on an election
+An election system using Ranked Pairs (also known as Condorcet method).
+
+# How to use it
+1. Clone this repo using '''git clone https://github.com/nurvdias/Ranked_Pairs.git'''
+2. 
